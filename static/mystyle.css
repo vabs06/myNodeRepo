@@ -1,0 +1,12 @@
+*{
+    background: thistle;
+}
+label{
+    font: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 25%;
+}
+input{
+    margin: 75%;
+    
+}
